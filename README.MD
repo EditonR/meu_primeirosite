@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto é apresentado do zero as principais linguagens web, domine desenvolvimento full stack e conheça tudo que precisa pra iniciar sua carreira e conquistar sua primeira vaga em programação.
 
-- [Acesse o projeto finalizado, online](https://editonr.github.io/Projeto_Rocketseat/)
+- [Acesse o projeto finalizado, online](https://editonr.github.io/meu_primeirosite/)
 
 - [Assistir aulas](https://app.rocketseat.com.br/classroom/stage-02)
 
